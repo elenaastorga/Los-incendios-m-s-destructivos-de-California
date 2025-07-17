@@ -1,0 +1,1 @@
+Recorrido por los incendios más destructivos en el Estado de California en lo que va de siglo
