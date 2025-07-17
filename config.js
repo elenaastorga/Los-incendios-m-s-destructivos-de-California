@@ -44,7 +44,7 @@ var config = {
             hidden: false,
             title: 'Camp Fire (2018)',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Camp_Fire_oli_2018312_Landsat.jpg/500px-Camp_Fire_oli_2018312_Landsat.jpg',
-            description: 'La respuesta es no: ese dudoso honor se lo lleva el incendio conocido como Camp Fire, en el condado de Butte. Además de el más destructivo según CAL FIRE, se trató del más mortífero: se cobró la vida de 85 personas.',
+            description: 'La respuesta es no: ese dudoso honor se lo lleva el incendio conocido como Camp Fire, en el condado de Butte. Además de el más destructivo según el Departamento de Bosques y Protección contra Incendios de California (CAL FIRE), se trató del más mortífero: se cobró la vida de 85 personas.',
             location: {
                 center: [-121.60538, 39.75622],
                 zoom: 8.7,
@@ -100,7 +100,7 @@ var config = {
             hidden: false,
             title: 'Palisades Fire (2025)',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Palisades_Fire_%2854257375328%29.jpg/500px-Palisades_Fire_%2854257375328%29.jpg',
-            description: 'De forma paralela, el incendio Palisades quemó casi 9.500 hectáreas en el barrio angelino de Pacific Palisades y la ciudad de Malibú. Causó la muerte de 12 personas y la destrucción de más de 6.800 edificios, convirtiéndose en el décimo incendio más letal y el tercero más destructivo en el Estado.',
+            description: 'De forma simultánea al Eaton Fire, el incendio Palisades quemó casi 9.500 hectáreas en el barrio angelino de Pacific Palisades y la ciudad de Malibú. Causó la muerte de 12 personas y la destrucción de más de 6.800 edificios, convirtiéndose en el décimo incendio más letal y el tercero más destructivo en el estado.',
             location: {
                 center: [-118.58230, 34.05824],
                 zoom: 11.64,
@@ -129,7 +129,7 @@ var config = {
             hidden: false,
             title: 'Tubbs Fire (2017)',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/JEMHP.jpg/500px-JEMHP.jpg',
-            description: 'En octubre de 2017, más de una docena de incendios ardieron de forma simultánea al norte del Estado, en lo que se ha llamado la tormenta de fuego del norte de California. El más severo de ellos, el incendio Tubbs, provocó la muerte de 22 personas y arrasó más de 5.600 estructuras, lo que lo situó brevemente como el más destructivo de California (superado solo un año después por el Camp Fire).',
+            description: 'En octubre de 2017, más de una docena de incendios ardieron de forma simultánea al norte del estado, en lo que se ha llamado la tormenta de fuego del norte de California. El más grave de ellos, el incendio Tubbs, provocó la muerte de 22 personas y arrasó más de 5.600 estructuras, lo que lo situó brevemente como el más destructivo de California (superado solo un año después por el Camp Fire).',
             location: {
                 center: [-122.71837, 38.55195],
                 zoom: 9,
@@ -158,7 +158,7 @@ var config = {
             hidden: false,
             title: 'Tunnel Fire (1991)',
             image: 'https://upload.wikimedia.org/wikipedia/commons/0/02/Golden_Gate_Avenue_following_firestorm.jpg',
-            description: 'El Fire Tunnel, también conocido como la tormenta de fuego de Oakland, fue una gran conflagración suburbana que se produjo en las laderas del norte de Oakland y el sureste de Berkeley. El incendio acabó con la vida de 25 personas e hirió a otras 150. Las 620 hectáreas destruidas incluían 2.843 viviendas unifamiliares y 437 apartamentos y condominios. Las pérdidas económicas del incendio se estimaron en 1.500 millones de dólares (2.990 millones en dólares de 2024).',
+            description: 'El Fire Tunnel, también conocido como la tormenta de fuego de Oakland, fue una gran conflagración suburbana que se afectó a Oakland y a Berkeley, en la densamente poblada área de la Bahía de San Francisco. El incendio acabó con la vida de 25 personas e hirió a otras 150. Las 620 hectáreas destruidas incluían 2.843 viviendas unifamiliares y 437 apartamentos y condominios. Las pérdidas económicas del incendio se estimaron en 1.500 millones de dólares (unos 2.990 millones en dólares de 2024).',
             location: {
                 center: [-122.23323, 37.85021],
                 zoom: 12.7,
@@ -188,7 +188,7 @@ var config = {
             hidden: false,
             title: 'Cedar Fire (2003)',
             image: 'https://upload.wikimedia.org/wikipedia/commons/9/9d/Cedar_Fire_crosses_Interstate_15.jpg',
-            description: 'El Cedar Fire fue un incendio forestal masivo que quemó 1.106 km2 de terreno en el condado de San Diego, California, a lo largo de octubre y noviembre de 2003. Para cuando el incendio estuvo bajo control, había destruido 2.820 edificios (entre ellos 2.232 viviendas) y matado a 15 personas, entre ellas un bombero.',
+            description: 'El Cedar Fire fue un incendio forestal masivo que quemó más de 100.000 hectáreas de terreno en el condado de San Diego, California, a lo largo de octubre y noviembre de 2003. Para cuando el incendio estuvo bajo control, había destruido 2.820 edificios (entre ellos 2.232 viviendas) y matado a 15 personas, entre ellas un bombero. Se trata además del décimo mayor incendio del estado, en términos de área quemada.',
             location: {
                 center: [-116.66152, 32.97034],
                 zoom: 9.28,
@@ -223,7 +223,7 @@ var config = {
             hidden: false,
             title: 'North Complex Fire (2020)',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Bear_Fire_on_Highway_162_-_2020-09-10.jpg/1920px-Bear_Fire_on_Highway_162_-_2020-09-10.jpg',
-            description: 'El North Complex Fire fue un enorme complejo de incendios forestales que ardió en el Bosque Nacional de Plumas, en el norte de California. Veintiún incendios fueron provocados por rayos el 17 de agosto de 2020.  El fuego mató a 16 personas e hirió a más de 100. Se calcula que el complejo quemó 129.068 hectáreas (318.935 acres). Es el octavo más grande de la historia de California.',
+            description: 'El North Complex Fire fue una conflagración masiva que ardió en el Bosque Nacional de Plumas, en el norte de California. 21 incendios forestales fueron provocados por rayos el 17 de agosto de 2020, que no fueron apagados en su totalidad hasta el 3 de diciembre de ese año.  El fuego mató a 16 personas e hirió a más de 100. Además, arrasó 129.068 hectáreas, situándose como el octavo más grande de la historia de California.',
             location: {
                 center: [-120.91373, 39.78537],
                 zoom: 9.16,
@@ -252,7 +252,7 @@ var config = {
             hidden: false,
             title: 'Valle Fire (2015))',
             image: 'https://upload.wikimedia.org/wikipedia/commons/a/a0/Valley_Fire_California_CALFIRE.jpg',
-            description: 'El Valley Fire abrasó 308 km2de terreno, mató a cuatro personas y destruyó casi 2.000 edificios, causando al menos 921 millones de dólares (equivalentes a unos 1.220 millones de dólares en 2024) en daños materiales asegurados. En su momento, el incendio fue el tercero más destructivo de la historia de California en cuanto al total de estructuras quemadas, pero los ya mencionados Camp Fire (2018) y North Complex Fire (2020) lo superaron pronto.',
+            description: 'El Valley Fire abrasó 30.800 hectáreas de terreno, mató a cuatro personas y destruyó casi 2.000 edificios. Las pérdidas, solo en daños materiales asegurados, se estimaron en 921 millones de dólares (equivalentes a unos 1.220 millones de dólares en 2024). En su momento, el incendio fue el tercero más destructivo de la historia de California en cuanto al total de estructuras quemadas, pero los ya mencionados Camp Fire (2018) y North Complex Fire (2020) lo superaron pronto.',
             location: {
                 center: [-122.61525, 38.84379],
                 zoom: 9.73,
@@ -281,7 +281,7 @@ var config = {
             hidden: false,
             title: 'Witch Fire (2007)',
             image: 'https://upload.wikimedia.org/wikipedia/commons/f/fd/Witch_Creek_Fire_at_night.jpg',
-            description: 'El incendio Witch Fire quemó 801 km2 de terreno en el condado de San Diego, donde provocó la evacuación de 500.000 personas. En total, obligó a evacuar a un millón de residentes de todo el sur de California, en la que es la mayor evacuación de la historia de California. Causó al menos 1.142 millones de dólares (equivalentes a 1.732 millones de dólares en 2024) solo en daños asegurados.',
+            description: 'El incendio Witch Fire quemó 80.100 hectáreas de terreno en el condado de San Diego, donde provocó la evacuación de 500.000 personas. En total, obligó a evacuar a un millón de residentes de todo el sur de California; la mayor operación de este tipo en la historia del estado. Destruyó 1.265 estructuras residenciales y causó pérdidas de al menos 1.142 millones de dólares en daños (aproximadamente 1.732 millones de dólares en 2024). Además, provocó 2 muertes e hirió a 55 bomberos.',
             location: {
                 center: [-116.78100, 33.09836],
                 zoom: 9,
@@ -310,7 +310,7 @@ var config = {
             hidden: false,
             title: 'Woolsey Fire (2018)',
             image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Woolsey_Fire_evacuation_from_Malibu_on_November_9%2C_2018.jpg/500px-Woolsey_Fire_evacuation_from_Malibu_on_November_9%2C_2018.jpg',
-            description: 'El incendio de Woolsey fue un incendio forestal que comenzó en el condado de Los Ángeles y se extendió al el vecino condado de Ventura, quemando 39.234 hectáreas de terreno. El fuego destruyó 1.643 estructuras, mató a tres personas y provocó la evacuación de más de 295.000.Se originó el mismo día que el destructivo Camp Fire, al norte del Estado.',
+            description: 'El incendio de Woolsey fue un incendio forestal que comenzó en el condado de Los Ángeles y se extendió al vecino condado de Ventura, quemando 39.234 hectáreas de terreno. El fuego destruyó 1.643 estructuras, costó al menos 6.000 millones de dólares en daños materiales, mató a tres personas y provocó la evacuación de más de 295.000 vecinos. Se originó el mismo día (el 8 de noviembre) que el Camp Fire, el incendio más destructivo hasta la fecha de todo el estado.',
             location: {
                 center: [-118.79119, 34.10519],
                 zoom: 9.94,
